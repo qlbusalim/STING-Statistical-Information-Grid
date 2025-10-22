@@ -1,0 +1,2 @@
+total_points,n_clusters,clustered_points,noise_points,grid_levels,finest_grid_size,density_threshold,cells_examined,cells_pruned,high_density_cells
+10000,4,9898,102,4,16×16,0.6000839327952642,96,40,33
